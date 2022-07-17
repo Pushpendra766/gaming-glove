@@ -32,4 +32,4 @@ This repository is open for contributions. So, if you have done some complicated
 You just need to follow [this](https://youtu.be/tvqA-JcTQNg) youtube tutorial with some changes. This time use the ```Arduino-usbserial-uno.hex``` hex file.
 
 ## Have any question 
-Raise an issue in this repository
+Raise an issue in this repository.
