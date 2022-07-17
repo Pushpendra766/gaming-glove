@@ -16,7 +16,7 @@ Note:- Ignore the purple wire.
 2. Open ```main_code.ino``` in you Arduino IDE and upload the code.
 3. Install flip software by running the .exe file in the FLIP install folder.
 4. Follow [this youtube video](https://youtu.be/tvqA-JcTQNg) tutorial and convert the Arduino into an HID device.<br/>
-Remember : The code (or uploading in arduino board and not he hex file) in our case is different than this video so upload the code that I provided in this repo only.
+Remember : The code (for uploading in arduino board and not the hex file) in our case is different than this video so upload the code that I provided in this repo only.
 5. You are ready to use your gaming glove.
 
 ## Final Project Image :-
