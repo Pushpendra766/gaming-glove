@@ -1,6 +1,6 @@
 # Gaming glove using Arduino Uno
 ## Introduction
-The gaming glove is a glove mounted with MPU6050 sensor on top of it and the tilting of the sensor in X-axis and Y-axis cause the action of key press.
+The gaming glove is a glove mounted with MPU6050 sensor on top of it and the tilting of the sensor in X-axis and Y-axis cause the action of key press. We can use it to play any running game like Subway Surfers which use A, S, D, W keys for moment. 
 I connected X-axis with press of 'A' and 'D' key and on Y-axis with 'W' and 'S' key. To make it simple I have used only four keys but with MPU6050 sensor we can do much more than that so you can use your creativity to make it more fun by adding more functionality.
 
 Note:- Arduino Uno and nano board can't use 'Keyboard' library for making keypress action because this boards do not have the necessary USB capabilities. So I have converted the Arduino into HID device by changing the firmware (hex files for changing the firmware is provided with this repo).
@@ -17,6 +17,7 @@ Note:- Ignore the purple wire.
 3. Install flip software by running the .exe file in the FLIP install folder.
 4. Follow [this youtube video](https://youtu.be/tvqA-JcTQNg) tutorial and convert the Arduino into an HID device.<br/>
 Remember : The code (for uploading in arduino board and not the hex file) in our case is different than this video so upload the code that I provided in this repo only.
+5. Bind your game keys with A, S, D, W for the actions. 
 5. You are ready to use your gaming glove.
 
 ## Final Project Image :-
