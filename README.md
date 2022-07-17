@@ -1,4 +1,6 @@
 # Gaming glove using Arduino Uno
+Connections:-
+<img src="https://github.com/Pushpendra766/gaming-glove/blob/main/img/mpu6050connections.png" width="500" />
 Steps to get started :-
 1. Clone the repository in your local system or just download the zip file.
 2. Open ```main_code.ino``` in you Arduino IDE and upload the code.
