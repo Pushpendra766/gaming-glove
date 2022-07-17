@@ -18,6 +18,10 @@ Note:- Ignore the purple wire.
 Remember : The code in our case is different than this video so upload the code that I provided in this repo only.
 5. You are ready to use your gaming glove.
 
+## Final Project Image :-
+
+<img src="https://github.com/Pushpendra766/gaming-glove/blob/main/img/gaming-glove.jpg" width="500" />
+
 ## Working Video
 [Here](https://youtube.com/shorts/QUvwEcXfaEI?feature=share) is me using the glove while playing Subway Surfers.
 
