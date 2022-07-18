@@ -13,7 +13,8 @@ Note:- Ignore the purple wire.
 ## Steps to get started :-
 1. Follow the above connections and do it in your board.
 1. Clone the repository in your local system or just download the zip file.
-2. Open ```main_code.ino``` in you Arduino IDE and upload the code.
+2. Open ```main_code.ino``` in you Arduino IDE and upload the code.<br>
+Remember :- You may have to change the values of angles in the code to find perfect angle.
 3. Install flip software by running the .exe file in the FLIP install folder.
 4. Follow [this youtube video](https://youtu.be/tvqA-JcTQNg) tutorial and convert the Arduino into an HID device.<br/>
 Remember : The code (for uploading in arduino board and not the hex file) in our case is different than this video so upload the code that I provided in this repo only.
